@@ -14,6 +14,7 @@ namespace Regex_Demo
             Regex_Display regexDisplay = new Regex_Display();
             regexDisplay.Display();
             regexDisplay.NameValidate();
+            regexDisplay.Last_NameValidate();
             Console.ReadLine();
 
         }
